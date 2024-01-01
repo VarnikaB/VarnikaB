@@ -9,6 +9,8 @@
 [<img src="https://cdn.iconscout.com/icon/free/png-512/free-jupyter-3521524-2945027.png" alt="Jupyter Notebook" width="100">](https://jupyter.org/ "Jupyter")
 [<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/vue-2752030-2284847.png" alt="Vue" width="100">](https://vuejs.org/ "Vue")
 [<img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="100">](https://research.google.com/colaboratory/ "Google colab")
+[<img src="https://titrias.com/files/2022/04/typescript.png" alt="Typescript" width="100">](https://www.typescriptlang.org/ "Typescript")
+[<img src="https://www.orientsoftware.com/Themes/OrientSoftwareTheme/Content/Images/blog/2021-12-16/what-can-you-do-with-javascript-thumb.jpg" alt="JavaScript" width="100">](https://www.w3schools.com/js/ "Javascript")
 
 
 <br>
