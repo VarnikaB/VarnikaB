@@ -10,7 +10,9 @@
 [<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/vue-2752030-2284847.png" alt="Vue" width="100">](https://vuejs.org/ "Vue")
 [<img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="100">](https://research.google.com/colaboratory/ "Google colab")
 [<img src="https://titrias.com/files/2022/04/typescript.png" alt="Typescript" width="100">](https://www.typescriptlang.org/ "Typescript")
-[<img src="https://www.orientsoftware.com/Themes/OrientSoftwareTheme/Content/Images/blog/2021-12-16/what-can-you-do-with-javascript-thumb.jpg" alt="JavaScript" width="100">](https://www.w3schools.com/js/ "Javascript")
+[<img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" alt="JavaScript" width="100">](https://www.w3schools.com/js/ "Javascript")
+[<img src="https://blog.appseed.us/content/images/2024/01/cover-flask.jpg" alt="Flask" height="100">]([https://www.w3schools.com/js/](https://flask.palletsprojects.com/en/3.0.x/) "Flask")
+
 
 
 <br>
