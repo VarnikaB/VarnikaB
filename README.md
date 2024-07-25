@@ -11,7 +11,9 @@
 [<img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="100">](https://research.google.com/colaboratory/ "Google colab")
 [<img src="https://titrias.com/files/2022/04/typescript.png" alt="Typescript" width="100">](https://www.typescriptlang.org/ "Typescript")
 [<img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" alt="JavaScript" width="100">](https://www.w3schools.com/js/ "Javascript")
-[<img src="https://blog.appseed.us/content/images/2024/01/cover-flask.jpg" alt="Flask" height="100">]([https://www.w3schools.com/js/](https://flask.palletsprojects.com/en/3.0.x/) "Flask")
+[<img src="https://blog.appseed.us/content/images/2024/01/cover-flask.jpg" alt="Flask" height="100">]([https://flask.palletsprojects.com/en/3.0.x/](https://flask.palletsprojects.com/en/3.0.x/) "Flask")
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/240px-Postgresql_elephant.svg.png" alt="Flask" height="100">]([https://www.w3schools.com/postgresql/index.php](https://www.w3schools.com/postgresql/index.php) "PostgreSQL")
+
 
 
 
