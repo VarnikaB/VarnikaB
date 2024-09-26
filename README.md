@@ -18,14 +18,15 @@
 
 
 <br>
-
-<h1>Hello! I am Varnika</h1>
-
 <ul>
   <li>I am interested in Software Development and Data Science</li>
   <li>I have completed my BTech in Computer Science and BSc in Data Science and Programming</li>
   <li>I am currently working at Thoughtworks, India</li>
   <li>I am interested in contributing towards Open Source!! Feel free to contact me!!</li>
 </ul>
+
+
+## Holopin Board
+![Holopin board](https://holopin.me/varnikab)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VarnikaB&theme=transparent&&layout=donut&show_icons=true&count_private=true&hide_border=true&hide_rank=true&hide=stars,contribs&show=prs_merged_percentage)
