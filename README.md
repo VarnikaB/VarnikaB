@@ -1,4 +1,4 @@
-# Hello! I am Varnika
+# Hello folks! I am Varnika
 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html "Python")
 [<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/ "Java")
@@ -10,7 +10,7 @@
 [<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/vue-2752030-2284847.png" alt="Vue" width="100">](https://vuejs.org/ "Vue")
 [<img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="100">](https://research.google.com/colaboratory/ "Google colab")
 [<img src="https://titrias.com/files/2022/04/typescript.png" alt="Typescript" width="100">](https://www.typescriptlang.org/ "Typescript")
-[<img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" alt="JavaScript" width="100">](https://www.w3schools.com/js/ "Javascript")
+[<img src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" alt="JavaScript" width="100">](https://www.w3schools.com/js/ "Javascript")
 [<img src="https://blog.appseed.us/content/images/2024/01/cover-flask.jpg" alt="Flask" height="100">]([https://flask.palletsprojects.com/en/3.0.x/](https://flask.palletsprojects.com/en/3.0.x/) "Flask")
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/240px-Postgresql_elephant.svg.png" alt="Flask" height="100">]([https://www.w3schools.com/postgresql/index.php](https://www.w3schools.com/postgresql/index.php) "PostgreSQL")
 
@@ -21,7 +21,7 @@
 <ul>
   <li>I am interested in Software Development and Data Science</li>
   <li>I have completed my BTech in Computer Science and BSc in Data Science and Programming</li>
-  <li>I am currently working at Thoughtworks, India</li>
+  <li>I am currently working at Booking Holdings, India</li>
   <li>I am interested in contributing towards Open Source!! Feel free to contact me!!</li>
 </ul>
 
