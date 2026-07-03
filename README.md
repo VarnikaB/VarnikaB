@@ -1,32 +1,86 @@
-# Hello folks! I am Varnika
+<div align="center">
 
-[<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html "Python")
-[<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/ "Java")
-[<img src="https://cdn.iconscout.com/icon/free/png-512/free-react-4-1175110.png" alt="React" width="100">](https://react.dev/ "React")
-[<img src="https://cdn.iconscout.com/icon/free/png-512/free-git-17-1175218.png" alt="Git" width="100" >](https://git-scm.com/ "Git")
-[<img src="https://cdn.iconscout.com/icon/free/png-512/free-c-4-226082.png" alt="C++" width="100">](https://devdocs.io/cpp/ "C++")
-[<img src="https://cdn.iconscout.com/icon/free/png-512/free-database-3114444-2598222.png" alt="Database Management" width="100">](https://www.javatpoint.com/what-is-database "Database")
-[<img src="https://cdn.iconscout.com/icon/free/png-512/free-jupyter-3521524-2945027.png" alt="Jupyter Notebook" width="100">](https://jupyter.org/ "Jupyter")
-[<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/vue-2752030-2284847.png" alt="Vue" width="100">](https://vuejs.org/ "Vue")
-[<img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="100">](https://research.google.com/colaboratory/ "Google colab")
-[<img src="https://titrias.com/files/2022/04/typescript.png" alt="Typescript" width="100">](https://www.typescriptlang.org/ "Typescript")
-[<img src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" alt="JavaScript" width="100">](https://www.w3schools.com/js/ "Javascript")
-[<img src="https://blog.appseed.us/content/images/2024/01/cover-flask.jpg" alt="Flask" height="100">]([https://flask.palletsprojects.com/en/3.0.x/](https://flask.palletsprojects.com/en/3.0.x/) "Flask")
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/240px-Postgresql_elephant.svg.png" alt="Flask" height="100">]([https://www.w3schools.com/postgresql/index.php](https://www.w3schools.com/postgresql/index.php) "PostgreSQL")
+# Hey there, I'm Varnika! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
+**Software Developer @ Booking Holdings | CS & Data Science Graduate**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-varnikab.github.io-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://varnikab.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varnika-bagaria/)
+[![Location](https://img.shields.io/badge/Bangalore-India-green?style=flat-square&logo=google-maps&logoColor=white)](#)
 
+</div>
 
-<br>
-<ul>
-  <li>I am interested in Software Development and Data Science</li>
-  <li>I have completed my BTech in Computer Science and BSc in Data Science and Programming</li>
-  <li>I am currently working at Booking Holdings, India</li>
-  <li>I am interested in contributing towards Open Source!! Feel free to contact me!!</li>
-</ul>
+---
 
+### About Me
 
-## Holopin Board
-![Holopin board](https://holopin.me/varnikab)
+- Building software at **Booking Holdings, India**
+- BTech in Computer Science + BSc in Data Science & Programming
+- Passionate about full-stack development, data science, and open source
+- Always exploring new technologies and contributing to the community
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VarnikaB&theme=transparent&&layout=donut&show_icons=true&count_private=true&hide_border=true&hide_rank=true&hide=stars,contribs&show=prs_merged_percentage)
+---
+
+### Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Tools & Platforms**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+</div>
+
+---
+
+### Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**CareerConnect**](https://github.com/VarnikaB/CareerConnect) | Career networking platform | Python |
+| [**Web-Scrapper**](https://github.com/VarnikaB/Web-Scrapper) | Extract tables from any webpage by URL | HTML, Python |
+| [**NASA Starting Page**](https://github.com/VarnikaB/NASA_startingpage) | Front page design for NASA Space App Challenge | CSS, HTML |
+| [**Portfolio**](https://github.com/VarnikaB/varnikab.github.io) | Personal portfolio website | HTML, CSS, JS |
+| [**Competitive Programming**](https://github.com/VarnikaB/Competitive_Programming) | Collection of CP solutions | Multi-language |
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/VarnikaB/VarnikaB/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" width="100%">
+
+<img src="https://raw.githubusercontent.com/VarnikaB/VarnikaB/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language" width="48%">
+<img src="https://raw.githubusercontent.com/VarnikaB/VarnikaB/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" width="48%">
+
+<img src="https://raw.githubusercontent.com/VarnikaB/VarnikaB/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" width="48%">
+<img src="https://raw.githubusercontent.com/VarnikaB/VarnikaB/master/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" width="48%">
+
+</div>
+
+---
+
+<div align="center">
+
+**Open to collaborations and open-source contributions!**
+
+</div>
