@@ -1,8 +1,9 @@
 name: GitHub Profile Summary Cards
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  push:
+    branches:
+      - master
   workflow_dispatch:
 
 jobs:
@@ -12,7 +13,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24fez6k/github-profile-summary-cards@release
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
